@@ -1,1 +1,1 @@
-# Projetos academicos desenvolvidos no curso de ADS, não necessariamente ligados a programação
+# Projetos desenvolvidos no curso de ADS, não ligados a programação
